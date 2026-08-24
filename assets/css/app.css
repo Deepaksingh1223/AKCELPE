@@ -11546,7 +11546,7 @@ div:where(.swal2-container) div:where(.swal2-validation-message) {
             height: 127px;
             width: 442px;
             right: -176px;
-            background-color: var(--dx-primary-bg-subtle)
+            background-color: #80808033
         }
 
         .ecommerce-widget .card:before {
